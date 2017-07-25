@@ -1,12 +1,5 @@
 ## Welcome to GitHub Pages
 
-HERE IS A SiTe iN dEVelOPmenT
-
-SooN(TM) you might even get some spare game- (mostly steam)keys here, when I find the time and ways to set it up, so if someone clicks one code, other's arent excited for nothing (and to fite dese avvfull code-snatching bots !!)
-
-
-
-
 You can use the [editor on GitHub](https://github.com/kunizial/kunizial.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
