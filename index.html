@@ -17,7 +17,13 @@
     Those will somewhat look like something. possibly. maybe.
 
     <form action="?" method="POST">
-      <div class="g-recaptcha" data-sitekey="6LcsbCoUAAAAACImyQxTgPxifBBa-KhqWK1O5VJR" data-callback="alert('Game-Key: xxx-xxx-xxxxx-xx')"></div>
+      <div class="g-recaptcha" data-sitekey="6LcsbCoUAAAAACImyQxTgPxifBBa-KhqWK1O5VJR" data-callback="myFunction('Game-Key: xxx-xxx-xxxxx-xx')"></div>
     </form>
+
+    <script>
+      function myFunction(message) {
+          alert(message); // later using vex or something fancier
+      }
+    </script>
   </body>
 </html>
