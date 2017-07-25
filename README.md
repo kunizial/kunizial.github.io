@@ -2,6 +2,8 @@
 
 HERE IS A SiTe iN dEVelOPmenT
 
+SooN(TM) you might even get some spare game- (mostly steam)keys here, when I find the time and ways to set it up, so if someone clicks one code, other's arent excited for nothing (and to fite dese avvfull code-snatching bots !!)
+
 
 
 
